@@ -1,4 +1,5 @@
-# Fun-play-zone <!DOCTYPE html>
+# Fun-play-zone
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
